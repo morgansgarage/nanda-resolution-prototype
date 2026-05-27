@@ -226,6 +226,17 @@ Potential next steps include:
 - automated tests
 - agent registration workflows
 
+# Tradeoffs
+
+This implementation intentionally prioritizes:
+
+- simplicity over distributed architecture
+- cryptographic verification over networking complexity
+- local execution over hosted infrastructure
+- readability over abstraction layers
+
+The goal was to demonstrate the narrowest complete verifiable resolution flow.
+
 ---
 
 # Author

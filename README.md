@@ -237,6 +237,11 @@ This implementation intentionally prioritizes:
 
 The goal was to demonstrate the narrowest complete verifiable resolution flow.
 
+
+## Example Resolution Flow
+
+![NANDA Resolution Prototype console output showing the complete agent resolution flow: starting with claims-review.agent lookup through registry.json to retrieve AgentAddr, then loading AgentFacts, performing signature verification, and displaying the final verified agent with metadata including Display Name: Claims Review Agent, Description: Reviews insurance claim files and identifies missing documentation, risk indicators, and recommended next actions, and Endpoint: https://example.com/agents/claims-review. The output demonstrates successful verification with a clear hierarchical flow diagram and structured result display on a dark terminal background.](screenshots/resolution-demo.png)
+
 ---
 
 # Author

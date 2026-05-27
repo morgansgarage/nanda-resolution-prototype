@@ -1,0 +1,14 @@
+{
+  "agent_name": "policy-summary.agent",
+  "display_name": "Policy Summary Agent",
+  "description": "Summarizes insurance policies and extracts key coverage information, exclusions, and deductibles.",
+  "version": "1.0.0",
+  "capabilities": [
+    "policy_summary",
+    "coverage_extraction",
+    "deductible_analysis"
+  ],
+  "endpoint": "https://example.com/agents/policy-summary",
+  "owner": "NANDA Prototype",
+  "signature": "nOg/IAHTSi8D9hfGaYCjg43R5vXlQ2InHk19x8Wt5sWkSwM06VcQ6aB0qDll05zGe5MtckfeRZc3kY8J53a2Bg=="
+}

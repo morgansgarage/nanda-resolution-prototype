@@ -1,0 +1,8 @@
+{
+  "claims-review.agent": {
+    "agent_addr": "agents/claims_agent.json"
+  },
+  "policy-summary.agent": {
+    "agent_addr": "agents/policy_agent.json"
+  }
+}

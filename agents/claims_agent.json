@@ -1,0 +1,14 @@
+{
+  "agent_name": "claims-review.agent",
+  "display_name": "Claims Review Agent",
+  "description": "Reviews insurance claim files and identifies missing documentation, risk indicators, and recommended next actions.",
+  "version": "1.0.0",
+  "capabilities": [
+    "claim_file_review",
+    "missing_document_detection",
+    "risk_indicator_summary"
+  ],
+  "endpoint": "https://example.com/agents/claims-review",
+  "owner": "NANDA Prototype",
+  "signature": "x6X30x+R8m5u8ex51eeghFCg+5ikjtkvO646Aukog+ia80DMCI84FQy2OQhtd4FGPNiEA53L8S6xL+D5xmSZDA=="
+}
